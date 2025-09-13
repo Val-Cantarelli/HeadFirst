@@ -1,8 +1,9 @@
-# HeadFirst Design Patterns 
+# Head First Design Patterns (Java)
 
 This project contains Java implementations of classic design patterns, inspired by the Head First Design Patterns book.
 
 ## Structure
+- All Java source files are located in the `src/` directory.
 - Each `.java` file demonstrates a specific design pattern or pattern component (e.g., Strategy, Observer, etc.).
 
 ## Purpose
